@@ -242,6 +242,16 @@ if AddJoke then
 	"Why did the golfer bring two pairs of pants? In case he got a hole in one!",
 	"Why don't scientists trust atoms? Because they make up everything!",
 	"What do you call fake spaghetti? An impasta!",
-	"Why did the coffee file a police report? It got mugged!"
+	"Why did the coffee file a police report? It got mugged!",
+	"What kind of shoes to frogs wear? Open-toad sandals.",
+	"I just built an ATM that only gives out coins. I don’t know why no one’s thought of it before: it just makes cents!",
+	"Did I ever tell you about the time I went mushroom foraging? It’s a story with a morel at the end.",
+	"What happened when two slices of bread went on a date? It was loaf at first sight.",
+	"Why do crabs never volunteer? Because they're shell-fish.",
+	"I had a quiet game of tennis today. There was no racket.",
+	"What's a shark's favorite saying? Man overboard!",
+	"What did one slice of bread say to the other before the race? You're toast!",
+	"I poured some water over a duck's back yesterday. I don't think he cared.",
+	"How did I know my girlfriend thought I was invading her privacy? She wrote about it in her diary."
 })
 end
