@@ -252,6 +252,7 @@ if AddJoke then
 	"What's a shark's favorite saying? Man overboard!",
 	"What did one slice of bread say to the other before the race? You're toast!",
 	"I poured some water over a duck's back yesterday. I don't think he cared.",
-	"How did I know my girlfriend thought I was invading her privacy? She wrote about it in her diary."
+	"How did I know my girlfriend thought I was invading her privacy? She wrote about it in her diary.",
+	"Why did the electric car feel discriminated against? Because the rules weren't current."
 })
 end
