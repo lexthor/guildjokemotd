@@ -253,6 +253,16 @@ if AddJoke then
 	"What did one slice of bread say to the other before the race? You're toast!",
 	"I poured some water over a duck's back yesterday. I don't think he cared.",
 	"How did I know my girlfriend thought I was invading her privacy? She wrote about it in her diary.",
-	"Why did the electric car feel discriminated against? Because the rules weren't current."
+	"Why did the electric car feel discriminated against? Because the rules weren't current.",
+	"I'm such a good navigator, a self-driving car once asked me for directions.",
+	"Why do melons have weddings? They cantelope.",
+	"What did the bison say to his son when he left the ranch? Bi-son.",
+	"Watch what you say around the egg whites. They can't take a yolk.",
+	"I'm so good at fixing things, my motto is, If it is broke, I'll still fix it.",
+	"Were did the pumpkins have their meeting? In the gourdroom.",
+	"What's the best way to save your dad jokes? In a dadda-base.",
+	"I got a new pen that can write under water. It can write other words too.",
+	"My boss said “dress for the job you want, not for the job you have.” So I went in as Batman.",
+	"I went to the aquarium this weekend, but I didn’t stay long. There’s something fishy about that place."
 })
 end
