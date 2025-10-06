@@ -263,6 +263,14 @@ if AddJoke then
 	"What's the best way to save your dad jokes? In a dadda-base.",
 	"I got a new pen that can write under water. It can write other words too.",
 	"My boss said “dress for the job you want, not for the job you have.” So I went in as Batman.",
-	"I went to the aquarium this weekend, but I didn’t stay long. There’s something fishy about that place."
+	"I went to the aquarium this weekend, but I didn’t stay long. There’s something fishy about that place.",
+	"I once submitted 10 puns to a joke competition. I really thought with that many, one was sure to be a winner. Sadly, no pun in ten did",
+	"Why did the old man fall down the well? He couldn’t see that well.",
+	"I tried to make up a joke about ghost but I couldn't. It had plenty of spirit but no body.",
+	"Today at the bank, an old lady asked me to check her balance... So I pushed her over.",
+	"I got an A on my origami assignment when I turned my paper into my teacher.",
+	"Hi, I’m Cliff. Drop over sometime.",
+	"If your house is cold, just stand in the corner. It’s always 90 degrees there.",
+	"What do you call the security guards for Samsung? Guardians of the galaxy."
 })
 end
