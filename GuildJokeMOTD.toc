@@ -1,4 +1,4 @@
-## Interface: 11500, 11507, 50500, 110200, 110205
+## Interface: 11500, 11507, 50500, 110200, 110205, 120000
 ## Title: Guild Joke of the day MOTD
 ## Notes: Changes the guild MOTD to a random joke each time.
 ## Author: YourName
