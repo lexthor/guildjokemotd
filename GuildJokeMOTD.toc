@@ -2,7 +2,7 @@
 ## Title: Guild Joke of the day MOTD
 ## Notes: Changes the guild MOTD to a random joke each time.
 ## Author: V3nd3tt4
-## Version: 2.5.6.1
+## Version: 2.5.6.2
 
 GuildJokeMOTD.xml
 GuildJokeMOTD.lua
